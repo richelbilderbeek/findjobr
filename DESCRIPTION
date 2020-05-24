@@ -10,6 +10,7 @@ Description: People have jobs.
     This packages helps me find the job best for me.
 License: GPL-3
 Imports:
+    magrittr,
     testthat,
     tibble
 Encoding: UTF-8
