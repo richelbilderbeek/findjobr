@@ -2,4 +2,5 @@
 
 export("%>%")
 export(find_best_jobs)
+export(find_gold_dois)
 importFrom(magrittr,"%>%")

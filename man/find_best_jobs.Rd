@@ -2,10 +2,10 @@
 % Please edit documentation in R/find_best_jobs.R
 \name{find_best_jobs}
 \alias{find_best_jobs}
-\title{Find the best jobs for me}
+\title{Find the best jobs for me.}
 \usage{
 find_best_jobs()
 }
 \description{
-Find the best jobs for me
+Find the best jobs for me.
 }
